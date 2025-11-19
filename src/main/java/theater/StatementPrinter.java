@@ -47,6 +47,10 @@ public class StatementPrinter {
         return result.toString();
     }
 
+    private Play getPlay(Performance performance) {
+        return plays.get(performance.getPlayID());
+    }
+
     private int getTotalAmount() {
         int result = 0;
         for (Performance performance : invoice.getPerformances()) {
