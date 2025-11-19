@@ -1,4 +1,6 @@
-ae6047b (HEAD -> main, origin/main, origin/HEAD) update task 2.1
+894d372 (HEAD -> main, origin/main, origin/HEAD) update task 1.1
+775792d update log
+ae6047b update task 2.1
 54f7fc4 update task 2.1
 340c390 update log
 8d6f63f finish task 2.4
@@ -9,4 +11,3 @@ b5d6a7f finish task 2.2
 2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
 ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
 b545fe2 clarifying extracted method names in README.md
-a0124c9 fixing starter file
